@@ -1,4 +1,6 @@
-# S3Box
+<p align="center"><img src="icon.png" alt="S3Box" width="128"></p>
+
+<h1 align="center">S3Box</h1>
 
 A local S3 server for your Mac. Start it from the menu bar, point your app at it, and store files on your own disk.
 
