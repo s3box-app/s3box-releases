@@ -9,6 +9,8 @@ A local S3 server for your Mac. Start it from the menu bar, point your app at it
 - MCP server, so Claude can list, upload, and read files
 - Updates itself
 
+Website: [s3box.mcnaveen.com](https://s3box.mcnaveen.com)
+
 ## Download
 
 Get the latest `S3Box-x.y.z.dmg` from [Releases](../../releases/latest). Open it and drag S3Box to Applications.
